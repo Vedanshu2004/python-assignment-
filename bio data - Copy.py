@@ -1,0 +1,8 @@
+A=input("enter the name = ")
+B=input("enter the mobole number = ")
+C=input("enter the address = ")
+D=input("enter the collage name = ")
+print(A)
+print(B)
+print(C)
+print(D)        
